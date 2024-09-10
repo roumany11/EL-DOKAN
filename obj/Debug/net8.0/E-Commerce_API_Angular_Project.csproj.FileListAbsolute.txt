@@ -278,3 +278,4 @@ D:\FCI\iti\01- lets start our journey\iti R3 23-24\graduation project\E-Commerce
 D:\FCI\iti\01- lets start our journey\iti R3 23-24\graduation project\E-Commerce_API_Angular_Project\E-Commerce_API_Angular_Project\obj\Debug\net8.0\E-Commerce_API_Angular_Project.pdb
 D:\FCI\iti\01- lets start our journey\iti R3 23-24\graduation project\E-Commerce_API_Angular_Project\E-Commerce_API_Angular_Project\obj\Debug\net8.0\E-Commerce_API_Angular_Project.genruntimeconfig.cache
 D:\FCI\iti\01- lets start our journey\iti R3 23-24\graduation project\E-Commerce_API_Angular_Project\E-Commerce_API_Angular_Project\obj\Debug\net8.0\ref\E-Commerce_API_Angular_Project.dll
+D:\FCI\iti\01- lets start our journey\iti R3 23-24\graduation project\E-Commerce_API_Angular_Project\E-Commerce_API_Angular_Project\obj\Debug\net8.0\E-Commerce_API_Angular_Project.sourcelink.json

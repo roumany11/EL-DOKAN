@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("E-Commerce_API_Angular_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee59be92412db7fcd98cfdbff7c05ed914cb6ff8")]
 [assembly: System.Reflection.AssemblyProductAttribute("E-Commerce_API_Angular_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("E-Commerce_API_Angular_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

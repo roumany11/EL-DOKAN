@@ -39,7 +39,7 @@ namespace E_Commerce_API_Angular_Project.Controllers
                     await userManager.CreateAsync(user, UserFromRequest.Password);       
                 if (result.Succeeded)
                 {
-                    return Ok("Create");
+                    return Ok("Created successfully");
                 }
                 foreach (var item in result.Errors)
                 {
@@ -60,6 +60,8 @@ namespace E_Commerce_API_Angular_Project.Controllers
                 user.UserName = UserFromRequest.UserName;
                 user.Email = UserFromRequest.Email;
                 user.Address = UserFromRequest.Address;
+                user.CreatedAt = DateTime.Now;
+                user.UpdatedAt = DateTime.Now;
 
                 IdentityResult result =
                     await userManager.CreateAsync(user, UserFromRequest.Password);

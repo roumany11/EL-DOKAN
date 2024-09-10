@@ -1,5 +1,7 @@
 
+using E_Commerce_API_Angular_Project.IRepository;
 using E_Commerce_API_Angular_Project.Models;
+using E_Commerce_API_Angular_Project.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -50,6 +52,8 @@ namespace E_Commerce_API_Angular_Project
 
                 };
             });
+
+            builder.Services.AddScoped<IAppUserRepo,AppUserRepo>();
 
 
             //-------------------------------------------------
